@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ThanosSortTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-02-25T20:43:19" hostname="DESKTOP-7TMGL0G" time="0.135">
+  <properties/>
+  <testcase name="SameNumbersAndOneDifferentTest()" classname="ThanosSortTest" time="0.037"/>
+  <testcase name="ManyZerosTest()" classname="ThanosSortTest" time="0.001"/>
+  <testcase name="NullTest()" classname="ThanosSortTest" time="0.003"/>
+  <testcase name="NoNumbersTest()" classname="ThanosSortTest" time="0.0"/>
+  <testcase name="BigNumbersTest()" classname="ThanosSortTest" time="0.0"/>
+  <testcase name="AverageEqualZeroTest()" classname="ThanosSortTest" time="0.0"/>
+  <testcase name="SameNumbersTest()" classname="ThanosSortTest" time="0.031"/>
+  <testcase name="AlreadySortedTest()" classname="ThanosSortTest" time="0.004"/>
+  <testcase name="OneNumberTest()" classname="ThanosSortTest" time="0.003"/>
+  <testcase name="NegativeNumbersTest()" classname="ThanosSortTest" time="0.004"/>
+  <testcase name="BigNegativeNumbersTest()" classname="ThanosSortTest" time="0.007"/>
+  <testcase name="SimpleTest()" classname="ThanosSortTest" time="0.005"/>
+  <testcase name="ReverseSortedTest()" classname="ThanosSortTest" time="0.002"/>
+  <testcase name="BigMassiveTest()" classname="ThanosSortTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
